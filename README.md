@@ -1,4 +1,13 @@
-### Hi there 👋
+### Ola, sou Carlos Wherbet conhecido também como Casuerti =)
+
+## Eu sou um humano, marido, cervejeiro, desenvolvedor e entusiasta de novas tecnologias que gosta de pensar fora da caixa.
+
+- 🔭 Atualmente trabalho como desenvolvedor senior full stack com Ruby on Rails, e outro bocado de tecnologias. 😄
+- 🌱 Atualmente estou estudando inteligência artificial e apresendizagem de máquina.
+- 🥅 Metas 2022: Contribuir mais para projetos open sources.
+- ⚡ Etc: Sou cervejeiro caseiro nas horas vagas. cheers :beers:	@cervejabarreira5761
+
+
 
  <div>
   <a href="https://github.com/rafaballerini">
