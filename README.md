@@ -3,8 +3,8 @@
 ## Eu sou um humano, marido, cervejeiro, desenvolvedor e entusiasta de novas tecnologias que gosta de pensar fora da caixa.
 
 - 🔭 Atualmente trabalho como desenvolvedor senior full stack com Ruby on Rails, e outro bocado de tecnologias. 😄
-- 🌱 Atualmente estou estudando inteligência artificial e apresendizagem de máquina.
-- 🥅 Metas 2022: Contribuir mais para projetos open sources.
+- 🌱 Sempre estudando e aprendendo coisas novas, mas atualmente estou cursando um pós gradução em inteligência artificial e apresendizagem de máquina.
+- 🥅 Metas 2022: Contribuir mais para projetos Open Source.
 - ⚡ Etc: Sou cervejeiro caseiro nas horas vagas. cheers :beers:	@cervejabarreira5761
 
 
