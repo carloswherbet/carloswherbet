@@ -6,7 +6,12 @@
 - 🌱 Sempre estudando e aprendendo coisas novas, mas atualmente estou cursando uma pós gradução em inteligência artificial e apresendizagem de máquina.
 - 🥅 Metas 2022: Contribuir mais para projetos Open Source.
 - ⚡ Etc: Sou cervejeiro caseiro nas horas vagas. cheers :beers:	@cervejabarreira5761
-
+<div>
+   <a href="https://instagram.com/carloswherbet" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/carlos-wherbet-castro-sabino-0510b231" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://instagram.com/cervejabarreira5761" target="_blank"><img src="https://img.shields.io/badge/-cervejabarreira5761-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 
+</div>
 
 
  <div>
@@ -14,7 +19,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carloswherbet&show_icons=true&theme=&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloswherbet&layout=compact&langs_count=7&theme="/>
 </div>
-
+ 
 <!--
 **carloswherbet/carloswherbet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
